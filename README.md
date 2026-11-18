@@ -1,4 +1,7 @@
 # ReliefOps disaster response dashboard
+ReliefOps provides a centralized dashboard for managing disaster response activities, including incidents, relief camps, aid requests, volunteers, and available resources.
+
+The project demonstrates the use of database management concepts through a disaster management scenario, with a focus on organized data handling and efficient access to information.
 
 Next.js demo frontend for the DBMS mini project. It uses fictional sample data aligned with `disaster_management_demo.sql`.
 
